@@ -38,7 +38,7 @@ The dashboard focuses on how inflation, unemployment, and interest rate policy i
 ---
 
 ## Dashboard Preview
-
+https://github.com/dvnguyin/Market-Risk-Monitor/blob/main/dashboard/screenshots/Market%20Risk%20Monitor%20Dashboard.png
 
 ---
 
